@@ -8,4 +8,6 @@ https://github.com/thundersp/ADS - all assignments
 https://github.com/Chetnaghengare/README -ass12
 
 //ndb_mgmd -f C:\mysql-cluster\config.ini --configdir=C:\mysql-cluster\config.ini --ndb-nodeid=1
+
+
 //image upload : https://github.com/9022348056/image.git
